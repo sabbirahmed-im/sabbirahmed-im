@@ -44,7 +44,7 @@ This is the foundation for what's next.
 
 ## Connect
 - Website: [leadleap.app](https://leadleap.app)
-- LinkedIn: [linkedin.com/in/sabbir-ahmed-am](https://www.linkedin.com/in/sabbir-ahmed-am)
-- X: [x.com/sabbir_ahmed_am](https://x.com/sabbir_ahmed_am)
-- Reddit: [reddit.com/user/sabbirr_ahmdd](https://www.reddit.com/user/sabbirr_ahmdd)
-- GitHub: [github.com/sabbir-ahmed-am](https://github.com/sabbir-ahmed-am)
+- LinkedIn: [linkedin.com/in/sabbirahmed-im](https://www.linkedin.com/in/sabbirahmed-im)
+- X: [x.com/sabbirahmed_im](https://x.com/sabbirahmed_im)
+- Reddit: [reddit.com/user/sabbirahmed-im](https://www.reddit.com/user/sabbirahmed-im)
+- GitHub: [github.com/sabbirahmed-im](https://github.com/sabbirahmed-im)
